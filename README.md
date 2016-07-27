@@ -2,8 +2,8 @@
 
 Demonstrates some Android technologies.
 
-1. Using Groovy in place of Java
-2. Using AsyncTask for parallelism, along with Groovy closures to reduce boilerplate code, such as
+- Using Groovy in place of Java
+- Using AsyncTask for parallelism, along with Groovy closures to reduce boilerplate code, such as
 
 ```
 Async.work {
@@ -17,5 +17,5 @@ Async.work {
 }
 ```
 
-3. Using relative layout for absolutely positioning its child views.
-4. Generating bitmaps on-the-fly using Paint/Canvas.
+- Using relative layout for absolutely positioning its child views.
+- Generating bitmaps on-the-fly using Paint/Canvas.
