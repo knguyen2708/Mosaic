@@ -19,3 +19,7 @@ Async.work {
 
 - Using relative layout for absolutely positioning its child views.
 - Generating bitmaps on-the-fly using Paint/Canvas.
+
+Thanks my comrade [Eric Liu][1] for supplying the problem!
+
+[1]: https://github.com/Ericliu001
