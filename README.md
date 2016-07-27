@@ -3,7 +3,7 @@
 Demonstrates some Android technologies.
 
 - Using Groovy in place of Java
-- Using AsyncTask for parallelism, along with Groovy closures to reduce boilerplate code, such as
+- Using AsyncTask for parallelism, along with Groovy closures to reduce boilerplate code, for example
 
 ```
 Async.work {
